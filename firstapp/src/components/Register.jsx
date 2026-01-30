@@ -73,3 +73,6 @@ console.log(import.meta.env.VITE_API_BACKEND)
     </div>
   )
 }
+
+
+// name email password mobile address 
